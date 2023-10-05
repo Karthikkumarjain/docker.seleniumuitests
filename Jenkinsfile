@@ -1,7 +1,6 @@
 pipeline{
 
-    agent any
-
+    agent { label 'node_inlocal' }
     stages{
 
         stage('Build Jar'){
