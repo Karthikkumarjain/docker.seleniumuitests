@@ -1,4 +1,4 @@
-package com.vinsguru.tests.vendorportal.model;
+package com.sample.tests.vendorportal.model;
 
 public record VendorPortalTestData(String username,
                                    String password,

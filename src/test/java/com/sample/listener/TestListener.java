@@ -1,6 +1,6 @@
-package com.vinsguru.listener;
+package com.sample.listener;
 
-import com.vinsguru.util.Constants;
+import com.sample.util.Constants;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.testng.ITestListener;

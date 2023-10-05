@@ -1,7 +1,7 @@
-package com.vinsguru.util;
+package com.sample.util;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.vinsguru.tests.vendorportal.model.VendorPortalTestData;
+import com.sample.tests.vendorportal.model.VendorPortalTestData;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

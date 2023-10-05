@@ -1,8 +1,8 @@
-package com.vinsguru.tests;
+package com.sample.tests;
 
-import com.vinsguru.listener.TestListener;
-import com.vinsguru.util.Config;
-import com.vinsguru.util.Constants;
+import com.sample.listener.TestListener;
+import com.sample.util.Config;
+import com.sample.util.Constants;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.WebDriver;

@@ -6,40 +6,51 @@
   <component name="ChangeListManager">
     <list default="true" id="17b0673c-fceb-42ac-884a-3111eda42b68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/runner.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/AbstractPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/flightreservation/FlightConfirmationPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/flightreservation/FlightsSearchPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/flightreservation/FlightsSelectionPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/flightreservation/RegistrationConfirmationPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/flightreservation/RegistrationPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/vendorportal/DashboardPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/vendorportal/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/resources/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/listener/TestListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/tests/AbstractTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/tests/flightreservation/FlightReservationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/tests/flightreservation/model/FlightReservationTestData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/tests/vendorportal/VendorPortalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/tests/vendorportal/model/VendorPortalTestData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/util/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/util/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/util/JsonUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/util/ResourceLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/config/default.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/flight-reservation/passenger-1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/flight-reservation/passenger-2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/flight-reservation/passenger-3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/flight-reservation/passenger-4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/vendor-portal/john.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/vendor-portal/mike.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/vendor-portal/sam.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-suites/flight-reservation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-suites/vendor-portal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/pages/AbstractPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/pages/AbstractPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/pages/flightreservation/FlightConfirmationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/pages/flightreservation/FlightConfirmationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/pages/flightreservation/FlightsSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/pages/flightreservation/FlightsSearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/pages/flightreservation/FlightsSelectionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/pages/flightreservation/FlightsSelectionPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/pages/flightreservation/RegistrationConfirmationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/pages/flightreservation/RegistrationConfirmationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/pages/flightreservation/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/pages/flightreservation/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/pages/vendorportal/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/pages/vendorportal/DashboardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/pages/vendorportal/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/pages/vendorportal/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/listener/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/listener/TestListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/tests/AbstractTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/tests/AbstractTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/tests/flightreservation/FlightReservationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/tests/flightreservation/FlightReservationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/tests/flightreservation/model/FlightReservationTestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/tests/flightreservation/model/FlightReservationTestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/tests/vendorportal/VendorPortalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/tests/vendorportal/VendorPortalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/tests/vendorportal/model/VendorPortalTestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/tests/vendorportal/model/VendorPortalTestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/util/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/util/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/util/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/util/JsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/util/JsonUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sample/util/ResourceLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sample/util/ResourceLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test-suites/flight-reservation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/test-suites/flight-reservation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinsguru/pages/AbstractPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinsguru/pages/flightreservation/FlightConfirmationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinsguru/pages/flightreservation/FlightsSearchPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinsguru/pages/flightreservation/FlightsSelectionPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinsguru/pages/flightreservation/RegistrationConfirmationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinsguru/pages/flightreservation/RegistrationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinsguru/pages/vendorportal/DashboardPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinsguru/pages/vendorportal/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/docker-resources/libs/selenium-docker-tests.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/docker-resources/libs/selenium-docker-tests.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/docker-resources/libs/selenium-docker.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/docker-resources/libs/selenium-docker.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/docker-resources/test-suites/flight-reservation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/docker-resources/test-suites/flight-reservation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinsguru/listener/TestListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinsguru/tests/AbstractTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinsguru/tests/flightreservation/FlightReservationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinsguru/tests/flightreservation/model/FlightReservationTestData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinsguru/tests/vendorportal/VendorPortalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinsguru/tests/vendorportal/model/VendorPortalTestData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinsguru/util/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinsguru/util/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinsguru/util/JsonUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vinsguru/util/ResourceLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test-suites/flight-reservation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test-suites/flight-reservation.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +182,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696477772958</updated>
-      <workItem from="1696477774131" duration="6606000" />
+      <workItem from="1696477774131" duration="6660000" />
+      <workItem from="1696485641077" duration="5133000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package com.vinsguru.tests.flightreservation.model;
+package com.sample.tests.flightreservation.model;
 
 public record FlightReservationTestData(String firstName,
                                         String lastName,
