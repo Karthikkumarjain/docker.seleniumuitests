@@ -5,18 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17b0673c-fceb-42ac-884a-3111eda42b68" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RandomJunitTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constants/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constants/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/driverfactory/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/driverfactory/DriverFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/ElementUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/ElementUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/PropertFileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/PropertFileReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RandomJunitTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefns/ApplicationHooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefns/ApplicationHooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefns/SearchFlowStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefns/SearchFlowStepDefinition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testrunner/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testrunner/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/runner.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/AbstractPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/flightreservation/FlightConfirmationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/flightreservation/FlightsSearchPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/flightreservation/FlightsSelectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/flightreservation/RegistrationConfirmationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/flightreservation/RegistrationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/vendorportal/DashboardPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/java/com/vinsguru/pages/vendorportal/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/listener/TestListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/tests/AbstractTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/tests/flightreservation/FlightReservationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/tests/flightreservation/model/FlightReservationTestData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/tests/vendorportal/VendorPortalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/tests/vendorportal/model/VendorPortalTestData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/util/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/util/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/util/JsonUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/java/com/vinsguru/util/ResourceLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/config/default.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/flight-reservation/passenger-1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/flight-reservation/passenger-2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/flight-reservation/passenger-3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/flight-reservation/passenger-4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/vendor-portal/john.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/vendor-portal/mike.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-data/vendor-portal/sam.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-suites/flight-reservation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-docker/src/test/resources/test-suites/vendor-portal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,39 +49,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/lib/maven-model-builder-3.9.2.jar!/org/apache/maven/model/pom-4.0.0.xml" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2WKOOPdOLLAJr3LmomiuVeMAuq9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/karthik.kumarb/workspace/personal/docker.seleniumuitests",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/karthik.kumarb/workspace/personal/docker.seleniumuitests&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner">
+  <component name="RunManager" selected="TestNG./Users/karthik.kumarb/workspace/personal/docker.seleniumuitests/selenium-docker/src/test/resources/test-suites/vendor-portal.xml">
     <configuration name="RandomJunitTests.LaunchBrowserAndClickOnDropDownAndSearchAndVerify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="PACKAGE_NAME" value="" />
@@ -117,8 +143,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/karthik.kumarb/workspace/personal/docker.seleniumuitests/selenium-docker/src/test/resources/test-suites/vendor-portal.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/selenium-docker/src/test/resources/test-suites/vendor-portal.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/karthik.kumarb/workspace/personal/docker.seleniumuitests/selenium-docker/src/test/resources/test-suites/vendor-portal.xml" />
         <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="JUnit.RandomJunitTests.testUrl" />
         <item itemvalue="JUnit.RandomJunitTests.LaunchBrowserAndClickOnDropDownAndSearchAndVerify" />
@@ -134,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696477772958</updated>
-      <workItem from="1696477774131" duration="5983000" />
+      <workItem from="1696477774131" duration="6606000" />
     </task>
     <servers />
   </component>
