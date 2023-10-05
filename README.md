@@ -59,6 +59,8 @@ If you dont want to use compose.yaml file-
 ```bash
 docker run -e BROWSER=chrome -e HUB_HOST=localhost -e TEST_SUITE=flight-reservation.xml -e THREAD_COUNT=4 karthikkumarjain/seleniumondocker
 ```
+
+
 ## Reports
 
 * Reports can be found under target/test-output/emailable-report.html
