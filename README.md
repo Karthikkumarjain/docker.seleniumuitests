@@ -44,22 +44,32 @@ The system under test are
 
 ## Run Tests
 
-To run the tests in local use
+Make sure the docker desktop application is launched and running.Then run the below command in the terminal
 
 
+To build the docker image, use below command (Dont forget the dot at the end and Don't use my username, use yours)
 ```bash
 docker build -t=karthikkumarjain/seleniumondocker .
 
 
 ```
+
+# Way 1:
+
+To run the tests in local use,
+
 ```bash
 docker compose up
 ```
-If you dont want to use compose.yaml file-
+To view the running window, launch http://localhost:4444/ui in your browser to launch selenium grid.
+
+# Way 2: 
+If you dont want to use compose.yaml file, run the below command to run the tests in local (Dont forget to add you ip address in the below command by replacing localhost)
+
 ```bash
 docker run -e BROWSER=chrome -e HUB_HOST=localhost -e TEST_SUITE=flight-reservation.xml -e THREAD_COUNT=4 karthikkumarjain/seleniumondocker
 ```
-
+To view the running window, launch http://{youripaddress}:4444/ui in your browser to launch selenium grid.
 
 ## Reports
 

@@ -32,15 +32,15 @@ services:
       - SE_NODE_OVERRIDE_MAX_SESSIONS=true
       - SE_NODE_MAX_SESSIONS=2
       - SE_VNC_NO_PASSWORD=1
-  vendor-portal:
-    image: karthikkumarjain/seleniumondocker
-    shm_size: '2g'
-    depends_on:
-      - chrome
-    environment:
-      - BROWSER=chrome
-      - HUB_HOST=hub
-      - THREAD_COUNT=2
-      - TEST_SUITE=vendor-portal.xml
-    volumes:
-      - ./output/vendor-portal:/home/selenium-docker/test-output
+#  vendor-portal:
+#    image: karthikkumarjain/seleniumondocker
+#    shm_size: '2g'
+#    depends_on:
+#      - chrome
+#    environment:
+#      - BROWSER=chrome
+#      - HUB_HOST=hub
+#      - THREAD_COUNT=2
+#      - TEST_SUITE=vendor-portal.xml
+#    volumes:
+#      - ./output/vendor-portal:/home/selenium-docker/test-output

@@ -6,6 +6,23 @@
   <component name="ChangeListManager">
     <list default="true" id="17b0673c-fceb-42ac-884a-3111eda42b68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/junitreports/TEST-com.sample.tests.vendorportal.VendorPortalTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/junitreports/TEST-com.sample.tests.vendorportal.VendorPortalTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/user-john.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/user-john.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/user-mike.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/user-mike.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/user-sam.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/user-sam.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-john.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-john.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-john.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-john.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-mike.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-mike.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-mike.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-mike.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-sam.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-sam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-sam.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-sam.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +52,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/karthik.kumarb/workspace/personal/docker.seleniumuitests/src/test/resources/jenkinfiles&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/karthik.kumarb/workspace/personal/docker.seleniumuitests&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -144,7 +161,9 @@
       <workItem from="1696477774131" duration="6660000" />
       <workItem from="1696485641077" duration="14598000" />
       <workItem from="1696516948183" duration="7219000" />
-      <workItem from="1696529891577" duration="1067000" />
+      <workItem from="1696529891577" duration="2463000" />
+      <workItem from="1696701637289" duration="154000" />
+      <workItem from="1696701980979" duration="1142000" />
     </task>
     <servers />
   </component>
